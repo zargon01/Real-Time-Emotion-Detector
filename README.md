@@ -16,8 +16,8 @@ This project demonstrates real-time emotion detection using OpenCV and a Convolu
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/emotion-detection.git
-    cd emotion-detection
+    git clone https://github.com/zargon01/Real-Time-Emotion-Detector
+    cd Real-Time-Emotion-Detector
     ```
 
 2. **Install the required dependencies:**
