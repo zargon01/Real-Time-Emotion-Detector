@@ -28,7 +28,7 @@ This project demonstrates real-time emotion detection using OpenCV and a Convolu
 
 3. **Download the pre-trained CNN model:**
 
-   [Download Model](link_to_model)
+   [Download Model](https://github.com/oarriaga/face_classification/blob/master/trained_models/emotion_models/fer2013_mini_XCEPTION.102-0.66.hdf5)
 
 4. **Run the emotion detection script:**
 
