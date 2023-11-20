@@ -49,19 +49,7 @@ This project demonstrates real-time emotion detection using OpenCV and a Convolu
 
 - **Parameters:** Adjust face detection parameters in the script to improve face recognition.
 
-## Contributing
-
-Contributions are welcome! Please follow the [Contributing Guidelines](CONTRIBUTING.md).
 
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-
-## Acknowledgments
-
-- The pre-trained model is based on [cite the source if applicable].
-- Haar Cascade Classifier for face detection is provided by OpenCV.
-
-## Contact
-
-For any inquiries or issues, please contact [Your Name] via [email](mailto:youremail@example.com).
